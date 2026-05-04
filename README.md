@@ -5,7 +5,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ## Repository
 
-
+https://github.com/ridmi-pavithra/IT23221550-Ridmi-Pavithra-K.P.--IT3040-Assignment-1..git
 ---
 
 ## Project Structure
